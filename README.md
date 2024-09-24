@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khyatikakkar5
 - 👀 I’m interested in Full Stack 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently advancing my skills
   
 - 📫 How to reach me my email kkakkar5k@gmail.com 
 
